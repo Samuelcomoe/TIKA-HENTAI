@@ -22,7 +22,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['BrunoSobrino']
 
-global.APIs = { // API Prefix
+global.APIs = {. // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝Tika Hentai 💝'
+global.botname = '💝Yahnn kudassai 💝'
 global.premium = 'true'
-global.packname = '💝 Tika Hentai 💝 Created By 💝 Andy_Mr_Lit 💝' 
-global.author = '💝 andy_mr_lit 💝' 
+global.packname = '💝 Yahnn Hentai 💝' 
+global.author = '💝 Yahnn 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/andy_mr_lit\n' 
 global.dygp = 'https://chat.whatsapp.com/KranoAXweimE4CmvDcKnei'
 global.fgsc = 'https://github.com/WhatsBot6/TIKA-HENTAI' 
@@ -59,11 +59,11 @@ global.fgpyp = 'https://chat.whatsapp.com/KranoAXweimE4CmvDcKnei'
 global.fglog = 'https://telegra.ph/file/2fd7556b944efd64e646c.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Tika Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.wait = '*💝 _calm down gay. 💝 Yamete kudassai 💝..._*'
+global.rwait = '✍️...'
 global.dmoji = '🤣'
-global.done = '👍'
-global.error = '👎' 
+global.done = '🌝'
+global.error = '🌚' 
 global.xmoji = '🫶' 
 
 global.multiplier = 69 
