@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['17869360209', 'Andg Official²⁰²³', true],
-  ['50937069302', 'andy_mr_lit', true], 
+  ['2250507475425', 'Yahnn', true],
+  ['2250507475425', 'Yahnn', true], 
   [''] 
 ] //Number of owners
 
@@ -22,7 +22,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['BrunoSobrino']
 
-global.APIs = {. // API Prefix
+global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
